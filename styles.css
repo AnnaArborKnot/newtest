@@ -1,0 +1,19 @@
+html,body{
+    width: 100%;
+    height: 100%;
+  }
+
+  
+#test-sidebar {
+background: violet;
+}
+  
+  h2{
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

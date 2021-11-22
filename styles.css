@@ -1,12 +1,11 @@
 #test-sidebar {
-background: violet;
-position:absolute;
-width:30%;
-opacity: 0.3;
-z-index:100;
-right:0;
+    background: violet;
+    position:absolute;
+    width:30%;
+    opacity: 0.3;
+    z-index:100;
+    right:0;
 }
-
 
 #test {
     position:absolute;
